@@ -1,0 +1,5 @@
+.idea/
+
+model/saved_models/
+model/logs
+model/venv
